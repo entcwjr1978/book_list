@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Book List - Ed Williams</string>
+    <string name="endpoint">http://de-coding-test.s3.amazonaws.com/</string>
+    <string name="path">books.json</string>
+</resources>

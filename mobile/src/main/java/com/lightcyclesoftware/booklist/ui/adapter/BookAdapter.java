@@ -13,10 +13,12 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 import com.lightcyclesoftware.booklist.R;
-import com.lightcyclesoftware.booklist.entity.BookModel;
+import com.lightcyclesoftware.booklist.library.entity.BookModel;
 import com.squareup.picasso.Callback;
 import com.squareup.picasso.Picasso;
+
 import java.util.List;
+
 import butterknife.Bind;
 import butterknife.ButterKnife;
 

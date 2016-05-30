@@ -1,4 +1,4 @@
-package com.lightcyclesoftware.booklist.entity;
+package com.lightcyclesoftware.booklist.library.entity;
 
 public class BookModel {
     private String title;

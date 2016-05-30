@@ -1,7 +1,7 @@
 package com.lightcyclesoftware.booklist.service;
 
 
-import com.lightcyclesoftware.booklist.entity.BookModel;
+import com.lightcyclesoftware.booklist.library.entity.BookModel;
 
 import java.util.List;
 
